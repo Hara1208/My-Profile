@@ -40,8 +40,20 @@ header h1 {
     margin-right: 20px;
 }
 
+.profile-name {
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    text-align: left;
+}
+
 .profile-text {
     color: white;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    text-align: left;
 }
 
 .Picture {
